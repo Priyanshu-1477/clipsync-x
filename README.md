@@ -42,7 +42,7 @@ A modern, sleek, and powerful clipboard manager that runs silently in the backgr
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/your-username/clipsync-x.git
+git clone https://github.com/Priyanshu-1477/clipsync-x.git
 cd clipsync-x
 ```
 
